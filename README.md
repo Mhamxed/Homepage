@@ -1,1 +1,1 @@
-# Homepage
+Create a responsive homepage using HTML and CSS.
